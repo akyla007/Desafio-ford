@@ -55,3 +55,8 @@ python main.py
 ### Contribuindo
 
 Se você deseja contribuir com o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
+
+
+### Relatório do projeto
+
+O arquivo `Relatorio.md` contém informações sobre o projeto e organização dos dados.
