@@ -1,9 +1,20 @@
 import requests
 import time
 import pandas as pd
+import os
 
 # Adicionar timer para não sobrecarregar a API
 delay = 0.05
+
+def create_data_directories():
+    directories = ["../src/data/bronze", "../src/data/silver", "../src/data/gold"]
+    
+    for directory in directories:
+        os.makedirs(directory, exist_ok=True)
+        open(os.path.join(directory, ".gitkeep"), "w").close()  # Adiciona um arquivo .gitkeep
+    
+    print("Diretórios criados com sucesso!")
+
 
 def get_response_to_dataframe(response):
     if response is not None:
