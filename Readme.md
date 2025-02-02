@@ -15,8 +15,8 @@ Siga os passos abaixo para instalar as dependências do projeto a partir do arqu
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/akyla007/Desafio-ford.git
+    cd Desafio-ford
     ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**

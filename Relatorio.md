@@ -29,7 +29,7 @@ Para futuras iterações do projeto, recomendo:
 - Após a modelagem e extração com PLN, extrair insights baseados na nova coluna, identificando as peças/problemas mais recorrentes de cada modelo de carro.
 
 ## Agradecimentos
-Agradeço a [nomes ou instituições] pelo suporte e colaboração durante o projeto.
+Agradeço a Vitor Hugo Duarte pela oportunidade de participar desse desafio.
 
 ## Contato
 Para mais informações, entre em contato:
